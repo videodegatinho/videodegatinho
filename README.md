@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
  ![GitHub Snake dark](https://github.com/videodegatinho/videodegatinho/blob/output/github-contribution-grid-snake.svg)
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
