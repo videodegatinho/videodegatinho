@@ -6,8 +6,8 @@
 
  <div align="center">
   <a href="https://github.com/videodegatinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=videodegatinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=videodegatinho&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=videodegatinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=videodegatinho&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div align="center"><br>
@@ -24,7 +24,8 @@
   <a href="www.linkedin.com/in/emilygonzaga" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/videodegatinho/videodegatinho/blob/output/github-contribution-grid-snake.svg)
+ ![GitHub Snake dark](https://github.com/videodegatinho/videodegatinho/blob/output/github-contribution-grid-snake.svg)
+ ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 </div>
 
