@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Emily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- :smiley_cat: Desenvolvimento Full Stack Java no Instituto Proa
+- :tiger: Ciência de Dados - Analisando dados com linguagem R na Big Data R
+- :rabbit: Design UI/UX no Senai Informática
+- :bear: Programação Front End no Senai Informática <br> <br>
 
  <div align="center">
   <a href="https://github.com/videodegatinho">
@@ -11,10 +12,13 @@
 </div>
 
 <div align="center"><br>
+  <img align="center" alt="Emily-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Emily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emily-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Emily-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Emily-Bootstrap" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Emily-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">        
 </div>
 
 ##
