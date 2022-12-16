@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Emily
 
-- :smiley_cat: Desenvolvimento Full Stack Java no Instituto Proa
+- :smiley_cat: Desenvolvimento Web Java no Instituto Proa
 - :tiger: Ciência de Dados - Analisando dados com linguagem R na Big Data R
 - :rabbit: Design UI/UX no Senai Informática
 - :bear: Programação Front End no Senai Informática <br> <br>
