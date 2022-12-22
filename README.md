@@ -7,8 +7,8 @@
 
  <div align="center">
   <a href="https://github.com/videodegatinho">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=videodegatinho&show_icons=true&theme=gruvbox"/></a>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=videodegatinho&langs_count=8&layout=compact&theme=gruvbox"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=videodegatinho&show_icons=true&theme=calm"/></a>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=videodegatinho&langs_count=8&layout=compact&theme=calm"/>
 </div>
 
 <div align="center"><br>
