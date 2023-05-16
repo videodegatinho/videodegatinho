@@ -1,5 +1,6 @@
 ## Olá! Eu sou a Emily
 
+- :lion: Defesa Cibernética na FIAP
 - :smiley_cat: Desenvolvimento Web Java no Instituto Proa
 - :tiger: Ciência de Dados - Analisando dados com linguagem R na Big Data R
 - :rabbit: Design UI/UX no Senai Informática
