@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Emily
 
-- :lion: Defesa Cibernética - FIAP
+- :hamster: Defesa Cibernética - FIAP
 - :smiley_cat: Desenvolvimento Web Java - Instituto Proa
-- :bear: Programação Front End - Senai Informática <br> <br>
+- :fox_face: Programação Front End - Senai Informática <br> <br>
 
  <div align="center">
   <a href="https://github.com/videodegatinho">
